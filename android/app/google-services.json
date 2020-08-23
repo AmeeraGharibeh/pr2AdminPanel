@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "135245849543",
+    "firebase_url": "https://pr2project-4cd0f.firebaseio.com",
+    "project_id": "pr2project-4cd0f",
+    "storage_bucket": "pr2project-4cd0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135245849543:android:79424f4a4df13d52532fe2",
+        "android_client_info": {
+          "package_name": "com.ameera.pr2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135245849543-9jp5ihitivm5epkcgn31n5brnlgm6t10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANd7UxYp7hAX2HyGGKTkvOI0i2Mdx3t80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135245849543-9jp5ihitivm5epkcgn31n5brnlgm6t10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135245849543:android:fccd1392bd360ab6532fe2",
+        "android_client_info": {
+          "package_name": "com.ameera.pr2adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135245849543-9jp5ihitivm5epkcgn31n5brnlgm6t10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANd7UxYp7hAX2HyGGKTkvOI0i2Mdx3t80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135245849543-9jp5ihitivm5epkcgn31n5brnlgm6t10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
